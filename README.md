@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Muhammad Ammar Khan</h1>
-<h3 align="center">Following the Passion for solving real-world problems through data and technology. dedicated and detail-oriented individual looking for an entry-level position</h3>
+<h3 align="center">I build AI automations, smart workflows, and AI agents using n8n and modern AI tools.My focus is on saving time by automating repetitive tasks and building scalable, real-world solutions.</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
 
