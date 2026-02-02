@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Data Engineering**
 
-- 💬 Ask me about **Python, SQL ,AWS, Data Analysis and Data Engineering**
+- 💬 Ask me about **Python, SQL ,AWS, Data Analysis,Data Engineering,N8N,AI Automation,AI Workflows,LLMS And AI Tools **
 
 - 📫 How to reach me **ammark486@gmail.com**
 
